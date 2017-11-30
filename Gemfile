@@ -40,6 +40,7 @@ gem 'erubis', '~> 2.7'
 gem 'devise', '~> 4.2'
 gem "paperclip", "~> 5.0.0"
 gem 'erubi', '~> 1.5'
+gem 'masonry-rails', '~> 0.2.4'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
